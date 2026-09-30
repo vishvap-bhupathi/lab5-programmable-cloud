@@ -1,0 +1,9 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# Google Cloud service account credentials
+part3/service-credentials.json
